@@ -15,3 +15,11 @@
 - Explore data set to discover trends, anomalies, and correlations to ratings/votes.
 - Clean and optimize data set for visualizations.
 - Create clear and insightful visualizations to describe and showcase findings.
+
+# [Life-Expectancy-Gdp](https://github.com/CoreyArr/Life-Expectancy-Gdp)
+
+## Project Overview:
+
+- Explore data set to discover trends, anomalies, and correlations to life expectancy.
+- Clean and optimize data set for visualizations.
+- Create clear and insightful visualizations to describe and showcase findings.
